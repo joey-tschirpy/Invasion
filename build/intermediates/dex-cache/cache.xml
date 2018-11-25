@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\UniSA\INFT 3034 - Mobile Game Development\MobileGame\Invasion\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c90db1b94411106b47acfba85492a401b844fe7b">
+        <dex dex="F:\UniSA\INFT 3034 - Mobile Game Development\MobileGame\Invasion\android\build\intermediates\pre-dexed\debug\core-1.0_3f13775f47327f6f9d4f90a33336086c49b2d335.jar" />
+    </item>
+
+</items>
